@@ -12,7 +12,7 @@ email: sniharsgowda@gmail.com
 # email_title: Email (Email title override)
 phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: https://nihargowdas.github.io/nihargowda.github.io/
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -22,7 +22,7 @@ darkmode: false
 twitter_username: jekyllrb
 github_username:  NiharGowdaS
 stackoverflow_username: "00000001"
-linkedin_username: nihargowda
+linkedin_username: nihargowdas
 
 # Additional icon links
 additional_links:
