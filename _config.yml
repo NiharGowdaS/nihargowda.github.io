@@ -76,9 +76,9 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
+        title: AMD
+        sub_title: Product Verification Engineer
+        caption: Apr 2024 - present
         link: Link to company (optional)
         quote: >
           Short description of the company (optional)
@@ -88,9 +88,9 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: National Institute Of Technology Surathkal
+        sub_title: Btech in Electronics Engineering
+        caption: 2020 - 2024
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
